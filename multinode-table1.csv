@@ -1,0 +1,8 @@
+Name ,ubuntu-slave
+Number of executors,2
+Remote root directory,/home/tinkal/jenkins
+Labels,ubuntu-slave
+Launch method,Select Launch agents via SSH
+Host,<Your slave node ip> 
+Credentials,Add your credentials
+Host Key Verification Strategy,Select Non verification Strategy
